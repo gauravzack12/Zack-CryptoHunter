@@ -1,6 +1,6 @@
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
-## Demo
+## Demo ( https://zack-crypto-hunter.netlify.app )
 #### Here is a working live demo :  
 
 ## Built with 
